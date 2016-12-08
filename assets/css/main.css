@@ -1612,7 +1612,7 @@
 
 	header {
 		margin: 0 0 2em 0;
-    color: darkgray;
+    color: #868383;
 	}
 
 		header > p {
@@ -1905,7 +1905,7 @@
     position: relative;
     display: inline-block;
     border-radius: 0.35em;
-    color: #fff !important;
+    color: #f3f8f8 !important;
     text-decoration: none;
     padding: 0.5em 1.5em 0.5em 1.5em;
     /*background-color: #8ebebc;*/
