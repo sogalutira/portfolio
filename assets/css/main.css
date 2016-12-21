@@ -85,6 +85,25 @@
 		width: 1400px;
 	}
 
+  .contact-section-links{
+    font-size: 16px;
+  }
+
+  #contacts{
+    text-align: left;
+    font-size: 16px;
+    margin-left: 195px;
+  }
+
+  #contacts-github-links{
+    display: inline;
+  }
+
+  #contacts-linkedin-links{
+    display: inline;
+  }
+
+
 	@media screen and (min-width: 961px) and (max-width: 1880px) {
 
 		.container.\31 25\25 {
